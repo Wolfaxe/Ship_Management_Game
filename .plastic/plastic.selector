@@ -1,0 +1,4 @@
+repository "Ship Management/Ship Management 2025-10-06_13-37-09@18966899384781@cloud"
+  path "/"
+    br "/main"
+    co "/main"
